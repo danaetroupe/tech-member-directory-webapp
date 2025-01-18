@@ -14,7 +14,7 @@ From the root directory run ```npm install``` to install all of the dependencies
 
 Remember to create a .env file and add ```node_modules``` along with any other values you might need.
 
-A rudimentary deployment of the website is on the railway platform and can be accessed by https://casualcoding21-production.up.railway.app/.  
+Access the webapp at https://casual-app-sa242.ondigitalocean.app/Register
 
 ## Tech Stack
 [mongoose]: https://mongoosejs.com/
